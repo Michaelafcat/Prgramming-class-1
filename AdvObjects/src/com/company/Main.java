@@ -8,6 +8,8 @@ public class Main {
         //ask a classmate or instructor if you are unsure how the code works.
 
 
+
+
         //generate a new player
         //create main game loop that continues until the player has no health
             //generate a new enemy( the level of the enemy should be the player's level)
